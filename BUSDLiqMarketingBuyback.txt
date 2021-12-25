@@ -1,0 +1,9 @@
+https://testnet.bscscan.com/address/0xfe5e007f69b6c109de4584f616e3a7d74fde5690#code
+
+uint256 public BUSDRewardsFee = 10;
+    uint256 public liquidityFee = 3;
+    uint256 public marketingFee = 2;
+    uint256 public buyBackFee = 1;
+    uint256 public totalFees = BUSDRewardsFee.add(liquidityFee).add(marketingFee).add(buyBackFee);
+
+    address public _marketingWalletAddress = 0x31a4797C7D3F153202ff7912368902b669a41073;
