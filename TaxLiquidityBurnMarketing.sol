@@ -1059,7 +1059,7 @@ contract CELT is Context, IERC20, Ownable {
             tokenAmount,
             0, // slippage is unavoidable
             0, // slippage is unavoidable
-            deadAddress,
+            owner(),
             block.timestamp
         );
     }
