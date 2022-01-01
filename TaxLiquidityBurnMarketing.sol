@@ -755,6 +755,7 @@ contract CELT is Context, IERC20, Ownable {
         
         //exclude owner and this contract from fee
         _isExcludedFromFee[owner()] = true;
+         _isExcludedFromFee[marketingWallet] = true;
         _isExcludedFromFee[address(this)] = true;
         
         emit Transfer(address(0), owner(), _tTotal);
