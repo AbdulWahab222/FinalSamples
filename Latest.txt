@@ -1,0 +1,31 @@
+1. Tax/Liquidity Dev in bnb
+https://bscscan.com/address/0xe2a44e2a236ac13b3c78c4436e1187ea3e67897e#code
+2. Tax/Liquidity/Burn/Marketing/Charity in tokens
+https://bscscan.com/address/0x65fe8af945cb8896ece44b0f281f8ca1d3753c5e#code
+3. Tax/Liquidity/Burn/Marketing in tokens
+https://bscscan.com/address/0xcddea1e80ed13df19f02d4879039e661fb2520f1#code
+4. Tax/Liquidity DevInBNB
+https://bscscan.com/address/0xcddea1e80ed13df19f02d4879039e661fb2520f1#code
+5. Tax/Liquidity/Burn Marketing in Matic (MATIC)
+https://polygonscan.com/address/0x571cb2407827f7e971937149eec57d33429d2a58
+6. Buy and sell, Tax/Liquidity Marketing In bnb
+https://bscscan.com/address/0xad00450d9d31601d2950947d4fc37cc550a60fde#code
+7. BUyAndSellTaxInBNBLiquidityMarketing
+https://bscscan.com/address/0xde0277125f4c693ffa806e796fd721668975d36d#code
+8. Tax/Liquidity MarketingInBNB / Charity In Tokens / Buyback
+https://bscscan.com/address/0xdad18e94ec2bfa72ac8279b67d26a2b3513c80f4#code
+9. TaxIn Matic / Marketing / Liquidity (Polygon)
+https://polygonscan.com/address/0xab2ef0933eb5559bd100700df3cdcd9c467bd40d#code
+10. BNB / Liquidity / Marketing
+https://bscscan.com/address/0xc13bdc6fc48ae4be5d4cc24856247d60dd5ca924#code
+11. BuyAndSell TRX/Liquidity/Marketing/Buyback/2Wallets
+https://bscscan.com/address/0xde69d2370309bce7403d6312dd831fd5d854574b#code
+12. BNB / Liquidity / Marketing / Buyback wallet / Burn
+https://testnet.bscscan.com/address/0x1af6b74197d427efb350b74d7a635f5e4df8715b#code
+13. BNB / Liquidity / Marketing / Cooldown
+https://bscscan.com/address/0x8fd9792675522248d10ae3893b11ccebf6459edd#code
+14. BuyAndSell Tax/Liquidity/ Charity and Dev in BNB
+https://bscscan.com/address/0x99ee534a77e213dcf9eadba34843faefdf04e060#code
+15. Tax/Liquidity/Burn/Charity
+https://bscscan.com/address/0xeCae324e2de1CB0032BCe2BdaB42F1705daA27E3#code
+*******Gustavomedin910*****
