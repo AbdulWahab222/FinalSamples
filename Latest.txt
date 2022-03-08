@@ -17,7 +17,7 @@ https://bscscan.com/address/0xdad18e94ec2bfa72ac8279b67d26a2b3513c80f4#code
 9. TaxIn Matic / Marketing / Liquidity (Polygon)
 https://polygonscan.com/address/0xab2ef0933eb5559bd100700df3cdcd9c467bd40d#code
 10. BNB / Liquidity / Marketing
-https://bscscan.com/address/0xc13bdc6fc48ae4be5d4cc24856247d60dd5ca924#code
+https://cronoscan.com/address/0x48dd0ad50d06f72cdef64a77017252f1e4f44ac7#code // (wrong logic https://bscscan.com/address/0xc13bdc6fc48ae4be5d4cc24856247d60dd5ca924#code)
 11. BuyAndSell TRX/Liquidity/Marketing/Buyback/2Wallets
 https://bscscan.com/address/0xde69d2370309bce7403d6312dd831fd5d854574b#code
 12. BNB / Liquidity / Marketing / Buyback wallet / Burn
