@@ -12,6 +12,8 @@ https://polygonscan.com/address/0x571cb2407827f7e971937149eec57d33429d2a58
 https://bscscan.com/address/0xad00450d9d31601d2950947d4fc37cc550a60fde#code
 7. BUyAndSellTaxInBNBLiquidityMarketing
 https://bscscan.com/address/0xde0277125f4c693ffa806e796fd721668975d36d#code
+7a. BuySellTaxInBNBLiquidityMarketingRequireFeaturesHoldingLimi10Mill
+https://bscscan.com/token/0x5964b20fc87fa21720a2a0756931fa8014c1b559
 8. Tax/Liquidity MarketingInBNB / Charity In Tokens / Buyback
 https://bscscan.com/address/0xdad18e94ec2bfa72ac8279b67d26a2b3513c80f4#code
 9. TaxIn Matic / Marketing / Liquidity (Polygon)
